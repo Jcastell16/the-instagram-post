@@ -36,9 +36,12 @@ font-size: 12px;
 padding: 0px;
 margin: 0px;
 }
+
 .html5logo{
 margin-right: 10px;
-font-size: 20px;
+width: 35px;
+height: 35px;
+border-radius: 100%;
 }
 .menulogo{
     padding: 10px;
